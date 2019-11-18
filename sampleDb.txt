@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1",
+	"Name": "Dimitris",
+	"Age": "32",
+	"Hobby": "Tornoi"
+  },
+    {
+    "Id": "2",
+	"Name": "Vicky",
+	"Age": "32",
+	"Hobby": "Studying"
+  },
+    {
+    "Id": "3",
+	"Name": "Stalin",
+	"Age": "141",
+	"Hobby": "Purging"
+  },
+    {
+    "Id": "4",
+	"Name": "Marialena",
+	"Age": "32",
+	"Hobby": "Traveling"
+  },
+      {
+    "Id": "5",
+	"Name": "Stavros",
+	"Age": "37",
+	"Hobby": "Board Games"
+  }
+]
